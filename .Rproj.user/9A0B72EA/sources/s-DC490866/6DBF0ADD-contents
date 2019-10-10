@@ -1,0 +1,79 @@
+---
+title: "報名資訊"
+
+---
+
+<body>
+
+<br><br><br>
+
+<body width="3000" height="3000" background="background.png">
+
+
+
+<div id="main" style="padding:50px;border:10px gray dotted;background-color: white;font-size: 20px;"> 
+    
+    
+    
+
+<center>✭報名資訊</center>
+<br>
+
+<ui>
+
+<li>參與對象： 國立臺北大學在學學生。</li>
+
+<li>團隊限制： 可跨年級、跨系組隊，每隊以2~4人為限，最多12隊，額滿為止。 </li>
+
+<li>報名期間： 108年1月7日至2月24日。 </li>
+
+
+<br><br>
+
+<center>✭報名流程</center>
+<br>
+
+進入報名表單   ➡ 
+線上填寫資料   ➡   
+經濟系辦繳交保證金(收費期間：108/2/18～108/2/27，
+週一～週五，9:00～12:00，13:30～17:00。)  ➡  
+完成報名程序
+
+<br><br>
+
+<center>✭報名方式</center>
+
+<br>
+報名統一採線上申報方式，欲參賽之隊伍請至線上表單登錄報名訊息。(建議使用Chrome瀏覽器，並先login您的gmail帳號。）
+<br>
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSfMVmHp6jYEcH-goPRWWSug2koMuDJ_rtm0lmm0TsGLpn0jOg/closedform" title="點我報名" >點我報名</a>
+
+
+
+</div>
+  
+<br><br><br>
+
+<div id="footer" style="text-align:center; style="margin:0 auto; width:800px;>   
+        
+        
+        
+        
+  <p class='text3'>
+       ✭ 主辦單位：國立臺北大學 經濟學系
+  
+      ✭贊助單位：英生鋼鐵企業股份有限公司 葉茂泰董事長
+
+      ✭協辦單位：研究發展處 創新創業中心、
+
+                國立臺北大學 資訊工程學系 
+ 
+      
+  <br>
+  <p class='text4'>
+        
+ Copyright © 2020 E.Major Taiwan . All rights reserved.
+       
+  </div>
+         
+</body>

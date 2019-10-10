@@ -1,0 +1,154 @@
+<style type="text/css">
+     
+body{}
+
+.text2 {
+    text-align: center;
+    text-decoration: underline;
+    text-decoration-color: darkblue;
+    text-shadow: 3px 4px 5px aliceblue;
+    font-family: "Segoe print";
+    color:black;
+    font-size: 35pt;
+    
+    
+        
+        
+}
+    
+    .text1 {
+    
+    font-family: "標楷體";
+    font-size: 18pt;
+    color:black
+
+        
+} 
+    
+    .text3 {
+        font-family:"標楷體";
+        font-size:20px;
+        color:dimgray;
+        
+    }
+    
+    .text4 {
+        font-family:"標楷體";
+        font-size:15px;
+        color:dimgray;
+        
+    }
+    
+    .text5 {
+    text-align: center;
+    text-decoration: underline;
+    text-decoration-color: #F0F000;
+    text-shadow: 3px 2px 5px red;
+    font-family: "標楷體";
+    font-style: italic;
+    font-size: 25pt;
+    color:darkred
+      
+        
+    }
+    
+    .text6 {
+        filter:glow(color:blue,strength=2);
+        color:darkslateblue;
+        text-shadow:1px 1px 5px skyblue;
+        font-family: "標楷體";
+        font-size:20pt;
+        font-weight: bold
+            
+    }
+    
+    .text7 {
+    text-align: center;
+    text-decoration: underline;
+    text-decoration-color: #F0F000;
+    font-family: "標楷體";
+    font-style: italic;
+    font-size: 20pt;
+    color:darkred
+   }
+
+.text8 {
+    
+    font-size: 25pt;
+    font-family:"Segoe print"
+    }
+
+.text9{
+    font-size: 40px;
+    color:black;
+    font-family:"標楷體"      
+    }
+    
+    
+    *{
+        font-size: 20px;
+        color:black;
+        font-family:"標楷體"
+            
+    }
+    #header{
+        height:300px;
+        
+        margin-bottom: 100px;
+        
+       
+        
+    }
+    #wrapper{
+        float:left;
+        width:100%;
+    }
+    #main{
+       
+        background-color: white;
+        
+    }
+    #side{
+        float:left;
+        width:250px;
+        margin-left:-100%;
+        
+        margin-top: 50px;
+    }
+    #footer{
+        clear:both;
+        height: 200px;
+        background-color: white;
+        margin-top: 200px;
+        
+    }
+
+
+
+img {
+            border-radius: 10px;
+        }
+
+        p {
+            margin: 0px;
+        }
+
+        h2 {
+            margin: 10px 0px 0px;
+        }
+
+        a {
+            text-decoration: none;
+        }
+
+        .place {
+            background: lightblue;
+        }
+
+        #content {
+            max-width: 800px;
+        }
+
+ 
+
+</style>
