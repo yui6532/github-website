@@ -5,15 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "2706346282",
+    "hash" : "3556188382",
     "id" : "A6B4DB0D",
-    "lastKnownWriteTime" : 1575993680,
-    "last_content_update" : 1575993680236,
+    "lastKnownWriteTime" : 1575994312,
+    "last_content_update" : 1575994312792,
     "path" : "~/GitHub/github-website/winner.Rmd",
     "project_path" : "winner.Rmd",
     "properties" : {
-        "cursorPosition" : "19,59",
-        "scrollLine" : "8"
+        "cursorPosition" : "26,2",
+        "scrollLine" : "11"
     },
     "relative_order" : 8,
     "source_on_save" : false,
