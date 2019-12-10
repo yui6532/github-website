@@ -306,15 +306,69 @@ $(document).ready(function () {
 </div>
 
 
+<style type="text/css">
+h1.title {
+    font-size: 45px;
+    text-align: center;
+    text-decoration: underline;
+    text-shadow: 3px 2px 5px blue;
+    font-family: "標楷體";
+    font-style: italic;
+    color:black
+}
+</style>
+<style>
+.text3 {
+    font-size: 25px;
+    text-decoration: underline;
+    text-shadow: 3px 2px 5px blue;
+    font-family: "標楷體";
+    font-style: italic;
+    color:black
+</style>
+<style>
+html {
+  height: 100%;
+}
+body{
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+}
+  </style>
 <body>
 <div id="fb-root">
 
 </div>
 <script async defer crossorigin="anonymous" src="https://connect.facebook.net/zh_TW/sdk.js#xfbml=1&version=v4.0"></script>
 <p><br><br><br></p>
-<body width="3000" height="3000" background="background.png">
+<body width="3000" height="3000" background="background2.jpg">
 <div id="main" style="padding:50px;border:10px skyblue dotted;background-color: white;font-size: 20px;">
-<p>✭ 冠軍 10617383 <br><br> 資管碩二 盧致嘉 <br> 資管碩二 沈易星<br> 資管碩二 胡林辳<br> 資管碩二 吳秉儒<br><br><br> ✭ 亞軍 資經不足<br><br> 經濟三 楊進<br> 經濟三 廖羿瑋<br> 資工三 許嘉銘<br> 資工三 鄧鈞洲<br><br><br> ✭ 季軍 WTLL <br><br> 統計四 劉又瑄<br> 統計四 藍雍淵<br> 統計四 蔡岱融 <br>資工四 王均捷<br><br><br> ✭ 佳作 Teach4Life <br><br> 金融三 賴昱銘<br> 電機三 游仲恩<br> 電機三 吳羿佳<br> 會計三 謝沁妤<br><br><br> ✭ 佳作 E.Major <br><br> 經碩一 陳柏銘 <br>經碩二 陳宜榛<br> 經濟二 邱奕勳 <br>經濟一 張翊宣<br><br><br></p>
+
+
+
+<p class='text3'>
+✭ 冠軍 10617383
+<p class='text3'>
+<p><br><br></p>
+<p>資管碩二 盧致嘉 <br> 資管碩二 沈易星<br> 資管碩二 胡林辳<br> 資管碩二 吳秉儒<br><br><br></p>
+<p class='text3'>
+✭ 亞軍 資經不足
+<p class='text3'>
+<p><br><br> 經濟三 楊進<br> 經濟三 廖羿瑋<br> 資工三 許嘉銘<br> 資工三 鄧鈞洲<br><br><br></p>
+<p class='text3'>
+✭ 季軍 WTLL
+<p class='text3'>
+<p><br><br> 統計四 劉又瑄<br> 統計四 藍雍淵<br> 統計四 蔡岱融 <br>資工四 王均捷<br><br><br></p>
+<p class='text3'>
+✭ 佳作 Teach4Life
+<p class='text3'>
+<p><br><br> 金融三 賴昱銘<br> 電機三 游仲恩<br> 電機三 吳羿佳<br> 會計三 謝沁妤<br><br><br></p>
+<p class='text3'>
+✭ 佳作 E.Major
+<p class='text3'>
+<p><br><br> 經碩一 陳柏銘 <br>經碩二 陳宜榛<br> 經濟二 邱奕勳 <br>經濟一 張翊宣<br><br><br></p>
 </div>
 <p><br><br><br></p>
 <div id="footer" style="text-align:center; style="margin:0 auto; width:800px;>
@@ -340,8 +394,15 @@ $(document).ready(function () {
 </div>
 <script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
 <p>
+<p>
+<a href="https://script.google.com/macros/s/AKfycbx5ksHejLgUuji43G1NEm3VhmNUIiv25-Bq-Pp81iJClNIESWM/exec" class="uri">Google Sheet</a>
+</p>
 <form name="submit-to-google-sheet">
 <input name="email" type="email" placeholder="訂閱最新消息請留email" required>
+<button type="submit">
+送出
+</button>
+<input name="name" type="name" placeholder="Name" required>
 <button type="submit">
 送出
 </button>

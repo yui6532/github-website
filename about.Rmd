@@ -2,11 +2,24 @@
 title: "競賽說明"
 ---
 
+<style type="text/css">
+h1.title {
+    font-size: 45px;
+    text-align: center;
+    text-decoration: underline;
+    text-shadow: 3px 2px 5px blue;
+    font-family: "標楷體";
+    font-style: italic;
+    color:black
+}
+</style>
+
+
 <body>
 
 <br><br><br>
 
-<body width="3000" height="3000" background="background.png">
+<body width="3000" height="3000" background="background2.jpg">
 
 <div id="main" style="padding:50px;border:10px skyblue dotted;background-color: white;font-size: 20px;"> 
   
