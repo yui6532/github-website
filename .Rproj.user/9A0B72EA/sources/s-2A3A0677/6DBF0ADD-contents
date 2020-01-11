@@ -15,6 +15,17 @@ h1.title {
 </style>
 
 <style>
+.text3 {
+    font-size: 25px;
+    text-decoration: underline;
+    text-shadow: 3px 2px 5px yellow;
+    font-family: "標楷體";
+    font-style: italic;
+    color:black
+</style>
+
+
+<style>
 html {
   height: 100%;
 }
@@ -41,7 +52,11 @@ body{
     
     
 
-<center>✭報名資訊</center>
+<center>
+
+<p class='text3'>✭報名資訊<p class='text3'>
+
+</center>
 <br>
 
 <ui>
@@ -55,7 +70,11 @@ body{
 
 <br><br>
 
-<center>✭報名流程</center>
+<center>
+
+<p class='text3'>✭報名流程<p class='text3'>
+
+</center>
 <br>
 
 進入報名表單   ➡ 
@@ -66,7 +85,11 @@ body{
 
 <br><br>
 
-<center>✭報名方式</center>
+<center>
+
+<p class='text3'>✭報名方式<p class='text3'>
+
+</center>
 
 <br>
 報名統一採線上申報方式，欲參賽之隊伍請至線上表單登錄報名訊息。(建議使用Chrome瀏覽器，並先login您的gmail帳號。）

@@ -9,7 +9,6 @@ h1.title {
     font-size: 45px;
     text-align: center;
     text-decoration: underline;
-    text-decoration-color: yellow;
     text-shadow: 3px 2px 5px blue;
     font-family: "標楷體";
     font-style: italic;
@@ -59,7 +58,7 @@ body{
 <center>
 
 
- <a><img width="700" height="300" src="photo2.jpg" title="資料科學應用創新黑克松競賽"></a>
+ <a><img width="700" height="300" src="photo3.jpg" title="資料科學應用創新黑克松競賽"></a>
         
 
 
