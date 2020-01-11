@@ -14,6 +14,17 @@ h1.title {
 </style>
 
 <style>
+.text3 {
+    font-size: 25px;
+    text-decoration: underline;
+    text-shadow: 3px 2px 5px yellow;
+    font-family: "標楷體";
+    font-style: italic;
+    color:black
+</style>
+
+
+<style>
 html {
   height: 100%;
 }
@@ -37,7 +48,13 @@ body{
 <div id="main" style="padding:50px;border:10px skyblue dotted;background-color: white;font-size: 20px;"> 
     
 
-<center>✭參考資料</center>
+<center>
+
+<p class='text3'>✭參考資料<p class='text3'>
+
+</center>
+
+
 <br><br>
 <ul class="text-left text-size" style="margin-left: 18px;">
 
@@ -51,7 +68,12 @@ body{
             
 <br><br><br>
 
-<center>✭作品範例</center>
+<center>
+
+<p class='text3'>✭作品範例<p class='text3'>
+
+</center>
+
 <br><br>
 <ul class="text-left text-size" style="margin-left: 18px;">
 
