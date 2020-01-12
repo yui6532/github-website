@@ -10,7 +10,7 @@ h1.title {
     text-align: center;
     text-decoration: underline;
     text-shadow: 3px 2px 5px blue;
-    font-family: "標楷體";
+      font-family: "標楷體";
     font-style: italic;
     color:black
 }
@@ -25,6 +25,15 @@ h1.title {
     font-family: "標楷體";
     font-style: italic;
     color:black
+}
+
+.text4 {
+    font-size: 25px;
+    text-decoration: underline;
+    font-family: "標楷體";
+    font-style: italic;
+    color:black
+}
 </style>
 
 
@@ -58,13 +67,15 @@ body{
 <center>
 
 
- <a><img width="700" height="300" src="photo4.jpg" title="資料科學應用創新黑克松競賽"></a>
+ <a><img width="700" height="300" src="photo5.jpg" title="資料科學應用創新黑克松競賽"></a>
         
 
 
 </center>
 
-<br><br>
+<br>
+<br>
+
 
 <div id="main" style="padding:50px;border:10px skyblue dotted;background-color: white;font-size: 20px;"> 
     
@@ -76,28 +87,29 @@ body{
 
 
 
-<p class='text3'>✭ 冠軍 10617383 <p class='text3'><br><br>
+<p class='text3'>✭ 冠軍 ✭<br>10617383 <p class='text3'><br><br>
 
 資管碩二 盧致嘉 <br>
 資管碩二 沈易星<br>
 資管碩二 胡林辳<br> 資管碩二 吳秉儒<br><br><br>
 
 
-<p class='text3'>✭ 亞軍 資經不足<p class='text3'><br><br>
+<p class='text3'>✭ 亞軍 ✭ <br>資經不足
+<p class='text3'><br><br>
 經濟三 楊進<br> 經濟三 廖羿瑋<br>
 資工三 許嘉銘<br> 資工三 鄧鈞洲<br><br><br>
 
 
-<p class='text3'>✭ 季軍 WTLL  <p class='text3'><br><br>
+<p class='text3'>✭ 季軍 ✭<br> WTLL  <p class='text3'><br><br>
 統計四 劉又瑄<br> 統計四 藍雍淵<br>
 統計四 蔡岱融 <br>資工四 王均捷<br><br><br>
 
 
-<p class='text3'>✭ 佳作 Teach4Life  <p class='text3'><br><br>
+<p class='text3'>✭ 佳作 ✭<br> Teach4Life  <p class='text3'><br><br>
 金融三 賴昱銘<br> 電機三 游仲恩<br>
 電機三 吳羿佳<br> 會計三 謝沁妤<br><br><br>
 
-<p class='text3'>✭ 佳作 E.Major  <p class='text3'><br><br>
+<p class='text3'>✭ 佳作 ✭ <br>E.Major  <p class='text3'><br><br>
 經碩一 陳柏銘 <br>經碩二 陳宜榛<br>
 經濟二 邱奕勳 <br>經濟一 張翊宣<br><br><br>
 
