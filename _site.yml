@@ -1,6 +1,6 @@
-name: "資料科學應用創新黑克松競賽"
+name: "資料科學應用創新黑客松競賽"
 navbar:
-  title: "資料科學應用創新黑克松競賽"
+  title: "資料科學應用創新黑客松競賽"
   right:
     - text: "競賽說明"
       href: about.html
